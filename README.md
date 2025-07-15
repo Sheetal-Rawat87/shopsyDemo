@@ -47,3 +47,4 @@ lib/
 ---
 
 **Made with Flutter, Bloc, and 💜 for modern mobile commerce.**
+# shopsyDemo
