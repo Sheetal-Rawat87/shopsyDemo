@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "description": "100% cotton, unisex, available in all sizes.",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Blue Jeans",
+    "description": "Slim fit, stretchable denim.",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Sneakers",
+    "description": "Comfortable everyday sneakers.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Leather Jacket",
+    "description": "Genuine leather biker jacket for all seasons.",
+    "price": 119.99,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Baseball Cap",
+    "description": "Adjustable cotton cap, various colors.",
+    "price": 14.99,
+    "image": "https://images.unsplash.com/photo-1521369909029-1af5c38c0406?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Hoodie",
+    "description": "Warm fleece hoodie with front pocket.",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Sunglasses",
+    "description": "UV-protection stylish sunglasses.",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Backpack",
+    "description": "Durable backpack with multiple compartments.",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Casual Dress",
+    "description": "Lightweight summer dress, floral design.",
+    "price": 44.99,
+    "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Beanie Hat",
+    "description": "Knitted beanie for cold weather.",
+    "price": 12.99,
+    "image": "https://images.unsplash.com/photo-1534215754734-18e55d13e346?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  }
+]
